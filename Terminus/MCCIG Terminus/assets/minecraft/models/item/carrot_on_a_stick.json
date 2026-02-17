@@ -1,0 +1,1 @@
+{"parent":"item/handheld_rod","textures":{"layer0":"item/carrot_on_a_stick"},"overrides":[{"predicate":{"custom_model_data":1},"model":"item/iron_pickaxe/2"},{"predicate":{"custom_model_data":2},"model":"custom:pkw/scroll_open"},{"predicate":{"custom_model_data":4},"model":"custom:pkw/scroll_open"}]}

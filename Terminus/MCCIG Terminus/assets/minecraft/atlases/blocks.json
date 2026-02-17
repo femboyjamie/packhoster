@@ -1,0 +1,1 @@
+{"sources":[{"type":"directory","source":"model_textures","prefix":"model_textures/"},{"type":"directory","source":"models","prefix":"models/"},{"type":"directory","prefix":"block/","source":"block"},{"type":"directory","prefix":"item/","source":"item"}]}

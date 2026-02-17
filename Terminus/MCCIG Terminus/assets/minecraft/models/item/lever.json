@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"block/lever"},"overrides":[{"predicate":{"custom_model_data":1},"model":"custom:gridrunners/gr_key"},{"predicate":{"custom_model_data":2},"model":"custom:gridrunners/gr_golf"}]}

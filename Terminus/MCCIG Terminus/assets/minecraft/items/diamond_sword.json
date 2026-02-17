@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"model","model":"item/diamond_sword"},"entries":[{"model":{"type":"model","model":"custom:mh/mh_blade"},"threshold":1}]}}

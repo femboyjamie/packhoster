@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"model","model":"item/iron_axe"},"entries":[{"model":{"type":"model","model":"custom:gridrunners/gr_golf"},"threshold":1}]}}

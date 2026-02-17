@@ -1,0 +1,60 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/elytra"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/elytra_broken"
+    },
+    "property": "minecraft:custom_model_data",
+    "index": 1,
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "minecraft:pride/aro/elytra_broken"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "minecraft:pride/aro/elytra"
+          }
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "minecraft:pride/ace/elytra_broken"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "minecraft:pride/ace/elytra"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "model": "",
+      "property": "minecraft:broken",
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/elytra_broken"
+      },
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/elytra"
+      }
+    }
+  }
+}

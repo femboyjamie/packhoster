@@ -1,0 +1,70 @@
+{"providers":[{"type":"space","advances":{" ":3,"‌":0}},{"type":"bitmap","file":"font/splitter.png","ascent":9,"height":9,"chars":[""]},{"type": "bitmap","file": "font/bossbars/parkour_warrior_bar.png","ascent":-6,"height":15,"chars":["🣒"]},        {
+            "file": "font/bossbars/point_bonus_1.png",
+            "chars": [
+                "⠫"
+            ],
+            "height": 12,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "font/bossbars/point_bonus_2.png",
+            "chars": [
+                "⠬"
+            ],
+            "height": 12,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "font/bossbars/point_bonus_3.png",
+            "chars": [
+                "⠭"
+            ],
+            "height": 12,
+            "ascent": 12,
+            "type": "bitmap"
+        },        {
+            "file": "font/bossbars/point_empty_bonus.png",
+            "chars": [
+                "⠟"
+            ],
+            "height": 14,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "font/bossbars/frog_bronze.png",
+            "chars": [
+                "⠖"
+            ],
+            "height": 10,
+            "ascent": 10,
+            "type": "bitmap"
+        },
+        {
+            "file": "font/bossbars/frog_silver.png",
+            "chars": [
+                "⠗"
+            ],
+            "height": 10,
+            "ascent": 10,
+            "type": "bitmap"
+        },
+        {
+            "file": "font/bossbars/frog_gold.png",
+            "chars": [
+                "⠘"
+            ],
+            "height": 10,
+            "ascent": 10,
+            "type": "bitmap"
+        },        {
+            "file": "font/bossbars/frog_empty.png",
+            "chars": [
+                "⠕"
+            ],
+            "height": 10,
+            "ascent": 10,
+            "type": "bitmap"
+        },{"type":"bitmap","file":"font/splitter.png","ascent":0,"height":1,"chars":[""]},{"type":"bitmap","file":"font/bossbars/rooms.png","ascent":7,"height":13,"chars":[""]},{"type":"bitmap","file":"font/bossbars/empty_box.png","ascent":10,"height":10,"chars":[""]},{"type":"bitmap","file":"font/bossbars/point_full.png","ascent":9,"height":9,"chars":[""]},{"type":"bitmap","file":"font/icons/question_mark.png","ascent":10,"height":10,"chars":[""]},{"type":"bitmap","file":"font/bossbars/hub_left.png","ascent":-7,"height":15,"chars":[""]},{"type":"bitmap","file":"font/bossbars/hub_right.png","ascent":-7,"height":15,"chars":[""]},{"file":"font/icons/acerace.png","chars":["❶"],"height":9,"ascent":9,"type":"bitmap"},{"file":"font/icons/battlebox.png","chars":["❻"],"height":9,"ascent":9,"type":"bitmap"},{"file":"font/icons/buildmart.png","chars":["❺"],"height":9,"ascent":9,"type":"bitmap"},{"file":"font/icons/rocketspleefrush.png","chars":["❸"],"height":9,"ascent":9,"type":"bitmap"},{"file":"font/icons/beeptest.png","chars":["❹"],"height":9,"ascent":9,"type":"bitmap"},{"file":"font/icons/dodgebolt.png","chars":["❾"],"height":9,"ascent":9,"type":"bitmap"},{"file":"font/icons/gridrunners.png","chars":["❿"],"height":9,"ascent":9,"type":"bitmap"},{"file":"font/icons/skybattle.png","chars":["❼"],"height":9,"ascent":9,"type":"bitmap"},{"file":"font/icons/parkourtag.png","chars":["❷"],"height":9,"ascent":9,"type":"bitmap"},{"file":"font/icons/mazehunters.png","chars":["➀"],"height":9,"ascent":9,"type":"bitmap"},{"file":"font/icons/meltdown.png","chars":["➁"],"height":9,"ascent":9,"type":"bitmap"},{"file":"font/icons/sandsoftime.png","chars":["➃"],"height":9,"ascent":9,"type":"bitmap"},{"type":"bitmap","file":"font/chevy.png","height":12,"ascent":10,"chars":["\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000","\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"," !\"#$%&'()*+,-./","0123456789:;<=>?","@ABCDEFGHIJKLMNO","PQRSTUVWXYZ[\\]^_","`abcdefghijklmno","pqrstuvwxyz{|}~\u0000","\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000","\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000£\u0000\u0000ƒ","\u0000\u0000\u0000\u0000\u0000\u0000ªº\u0000\u0000¬\u0000\u0000\u0000«»","░▒▓│┤╡╢╖╕╣║╗╝╜╛┐","└┴┬├─┼╞╟╚╔╩╦╠═╬╧","╨╤╥╙╘╒╓╫╪┘┌█▄▌▐▀","\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000∅∈\u0000","≡±≥≤⌠⌡÷≈°∙\u0000√ⁿ²■\u0000"]},{"type":"space","advances":{" ":4,"":-1}}]}

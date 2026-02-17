@@ -1,0 +1,144 @@
+{"sources":[{"type":"directory","source":"model_textures","prefix":"model_textures/"},{"type":"directory","source":"models","prefix":"models/"},{"type":"directory","source":"custom:models","prefix":"custom:models/"},{"type":"directory","source":"custom:textures","prefix":"custom:textures/"},{"type":"directory","prefix":"block/","source":"block"},{"type":"directory","prefix":"item/","source":"item"},		{
+            "type": "single",
+            "resource": "custom:font/icons/acerace"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/battlebox"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/crown"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/dodgebolt"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/house"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/parkourtag"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/sandsoftime"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/railroadrush"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/tgttos"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/survivalgames"
+        },
+	{
+            "type": "single",
+            "resource": "custom:font/icons/skybattle"
+        },
+	{
+            "type": "single",
+            "resource": "custom:font/icons/parkourwarrior"
+        },
+	{
+            "type": "single",
+            "resource": "custom:font/icons/rocketspleefrush"
+        },
+	{
+            "type": "single",
+            "resource": "custom:font/icons/star"
+	},
+	{
+            "type": "single",
+            "resource": "custom:font/icons/buildmart"
+	},
+	{
+            "type": "single",
+            "resource": "custom:font/icons/gridrunners"
+	},
+	{
+            "type": "single",
+            "resource": "custom:font/icons/holeinthewall"
+	},
+	{
+            "type": "single",
+            "resource": "custom:font/icons/meltdown"
+        },
+	{
+            "type": "single",
+            "resource": "custom:font/icons/coin"
+        },
+	{
+            "type": "single",
+            "resource": "custom:font/icons/decisiondome"
+        },
+	{
+            "type": "single",
+            "resource": "custom:font/icons/sumo"
+        },
+	{
+            "type": "single",
+            "resource": "custom:bmcc_items/long_timed_ball_of_harming"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/info"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/info_blue"
+        },
+	{
+            "type": "single",
+            "resource": "custom:bmcc_interface/exit"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/toggle/toggle_on"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/toggle/toggle_off"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/cancel"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/back"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/spectate/skull"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/accept"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/settings/chat_bubble_blue"
+ 	},
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/button/pressed"
+	},
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/button/button"
+	},
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/button/gray"
+        },
+	{
+            "type": "single",
+            "resource": "custom:bmcc_interface/back"
+        }]}
